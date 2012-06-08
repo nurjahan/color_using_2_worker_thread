@@ -1,1 +1,2 @@
 pass the given image of the current web-page from content script to backgrpund page.background page creates a canvas and makes image processing for that image. 
+I used worker threads in 'background.html' to do two tasks parallelly which are independent to each other  .It reduced execution time to half than the execution time for single thread.
