@@ -1,0 +1,1 @@
+pass the given image of the current web-page from content script to backgrpund page.background page creates a canvas and makes image processing for that image. 
